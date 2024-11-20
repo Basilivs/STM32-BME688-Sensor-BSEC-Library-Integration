@@ -1,3 +1,3 @@
-# STM32-BME688-Sensor-BSEC-Library-Integration
+# BSEC Library Integration on STM32 with the BME688 Sensor
  
 To be implemented...
